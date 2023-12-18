@@ -6,6 +6,9 @@ public class Cinema {
     public static void main(String[] args) {
 
 
+
+
+
         boolean[] state= new boolean[]{true};
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the number of rows:");
